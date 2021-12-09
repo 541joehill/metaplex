@@ -30,9 +30,9 @@ export const SalesListView = () => {
   return (
     <>
       <Banner
-        src="/main-banner.svg"
-        headingText="OpenMedium NFT Marketplace."
-        subHeadingText="Mint and exchange NFTs."
+        src=""
+        headingText="Solana NFT Platform Demo"
+        subHeadingText="Connect to devnet to explore and browse functionality."
         actionComponent={<HowToBuyModal buttonClassName="secondary-btn" />}
         useBannerBg
       />
