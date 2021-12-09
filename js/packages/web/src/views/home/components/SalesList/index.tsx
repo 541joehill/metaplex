@@ -30,7 +30,7 @@ export const SalesListView = () => {
   return (
     <>
       <Banner
-        src="/main-banner.svg" //src="/main-banner.svg"
+        src="/main-banner.svg"
         headingText="OpenMedium NFT Marketplace."
         subHeadingText="Mint and exchange NFTs."
         actionComponent={<HowToBuyModal buttonClassName="secondary-btn" />}
